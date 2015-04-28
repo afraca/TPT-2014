@@ -11,7 +11,7 @@ layout: default
 
 ## Using Agda
 
-* [Emacs cheatsheet](http://refcards.com/docs/gildeas/gnu-emacs/emacs-refcard-a4.pdf)
+* [Emacs cheatsheet](https://www.gnu.org/software/emacs/refcards/pdf/refcard.pdf)
 * [Agda keyboard shortcuts](http://wiki.portal.chalmers.se/agda/pmwiki.php?n=Main.QuickGuideToEditingTypeCheckingAndCompilingAgdaCode)
 * [Writing Unicode characters](http://wiki.portal.chalmers.se/agda/pmwiki.php?n=Docs.UnicodeInput)
 
